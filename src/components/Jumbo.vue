@@ -24,7 +24,7 @@
   background-color: #255EE9;
   background-size: cover;
   background-position: center;
-  background-image: url(../img/jumbo.png);
+  background-image: url(../assets/jumbo.png);
   }
 
   #jumbotron .content{
